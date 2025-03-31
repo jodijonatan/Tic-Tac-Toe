@@ -112,5 +112,5 @@ function calculateWinner(squares) {
       return squares[a];
     }
   }
-  return false;
+  return true;
 }
